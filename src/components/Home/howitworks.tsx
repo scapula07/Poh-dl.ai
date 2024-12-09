@@ -9,7 +9,7 @@ export default function HowItWorks() {
               <p className='w-4/5 text-center text-3xl'>Whether you're a team of one or a thousand, Zapier puts the power of automation in your hands—no coding required. Take your workflows to the next level with our suite of automation tools.</p>
                
                <div className='flex flex-col'>
-                     <img src='/assets/play.png' className='h-[60vh]'/>
+                     <img src='/assets/play2.png' className='h-[60vh]'/>
 
                </div>
           </div>

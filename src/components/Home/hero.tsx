@@ -22,7 +22,7 @@ export default function Hero() {
           </div>
           <div className='w-[50%]'>
               <img
-                 src='/assets/hero.webp'
+                 src='/assets/hero.png'
                  className='w-full'
               />
           </div>
