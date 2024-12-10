@@ -40,6 +40,7 @@ export default function Banner() {
                       </div>
                     )
                 })}
+                <h5 className='font-bold  text-3xl text-slate-600'>Livepeer</h5>
           </div>
     </div>
   )
