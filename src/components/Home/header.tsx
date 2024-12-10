@@ -15,11 +15,11 @@ export default function Header() {
           </div>
           <div className='flex items-center space-x-8'>
                <h5 className='text-[#a42569] font-semibold '>Log in</h5>
-               <button className='border border-[#a42569] py-2.5 px-6 rounded-sm text-[#a42569] font-semibold flex items-center space-x-4'>
+               <button className='border border-[#a42569] py-2.5 px-6 rounded-lg text-[#a42569] font-semibold flex items-center space-x-4'>
                    <FaUsersViewfinder />
                    <span>Get a demo</span>  
                </button>
-               <button className='bg-[#a42569] py-2.5 px-6 text-white'>Start a free trial</button>
+               <button className='bg-[#a42569] py-2.5 px-6 text-white rounded-lg'>Start a free trial</button>
 
           </div>
     </div>

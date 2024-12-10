@@ -11,10 +11,10 @@ export default function Hero() {
                      <h5 className='text-xl text-slate-900 poppins-medium leading-[1.7rem]'>From workflow automations to powerful built-in media tools for images, video and audio — everything you need in one place.</h5>
               </div>
               <div className='w-full flex items-center py-10 space-x-10'>
-                   <button className='bg-[#a42569] py-2.5 px-6 text-white font-semibold'>
+                   <button className='bg-[#a42569] py-2.5 px-6 text-white font-semibold rounded-lg'>
                       Try for free
                    </button>
-                   <button className='bg-white py-2.5 px-6 rounded-sm text-[#a42569] font-semibold flex items-center space-x-4'>
+                   <button className='bg-white border border-[#a42569] py-2.5 px-6 rounded-lg text-[#a42569] font-semibold flex items-center space-x-4'>
                         <FaUsersViewfinder />
                         <span>Get a demo</span>  
                     </button>
