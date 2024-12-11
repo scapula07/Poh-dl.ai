@@ -7,7 +7,7 @@ export default function Hero() {
     <div className='w-full h-[80vh]  pt-20 flex items-center'>
           <div className='w-[50%] flex flex-col pl-20'>
               <div className='w-full flex flex-col space-y-3'>
-                    <h5 className='text-5xl font-extrabold poppins-bold leading-[1.2]'> Stop Switching Between Tools - <span className='text-[#a42569]'>Work Smarter,  Create Faster.</span></h5>
+                    <h5 className='text-5xl font-extrabold poppins-bold leading-[1.2]'> Stop Switching Between Tools - <span className='text-[#a42569]'>Work Smarter,  Automate Faster.</span></h5>
                      <h5 className='text-xl text-slate-900 poppins-medium leading-[1.7rem]'>From workflow automations to powerful built-in media tools for images, video and audio — everything you need in one place.</h5>
               </div>
               <div className='w-full flex items-center py-10 space-x-10'>
